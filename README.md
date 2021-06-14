@@ -1,4 +1,4 @@
-# View-Forgetten-WiFi-Passwords-using-Python\
+# View-Forgetten-WiFi-Passwords-using-Python
 
 ### DESCRIPTION
 
